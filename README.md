@@ -121,7 +121,7 @@ Performed a CFD analysis to evaluate the aerodynamic effects of a rear spoiler o
 `ANSYS Fluent` `ANSYS Meshing` `SpaceClaim` `Autodesk Inventor` 
 
 🔗 **Repository:**
-https://github.com/MohamedSamer1
+https://github.com/MohamedSamer1/tesla-model-s-spoiler-cfd-analysis
 
 ---
 
