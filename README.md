@@ -35,7 +35,7 @@ I'm a Mechatronics Engineering student at **MSA University** (Faculty of Enginee
 ### 📐 CAD
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Autodesk%20Inventor-2C2C2C?style=for-the-badge&logo=autodesk&logoColor=white" width="230" />
+  <img src="https://img.shields.io/badge/Autodesk%20Inventor-2C2C2C?style=for-the-badge&logo=autodesk&logoColor=white" width="270" />
   &nbsp;&nbsp;
   <img src="https://img.shields.io/badge/SolidWorks-CC2929?style=for-the-badge&logo=dassaultsystemes&logoColor=white" width="180" />
 </p>
