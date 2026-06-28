@@ -40,6 +40,7 @@ I'm a Mechatronics Engineering student at **MSA University** (Faculty of Enginee
   <img src="https://img.shields.io/badge/SolidWorks-CC2929?style=for-the-badge&logo=dassaultsystemes&logoColor=white" />
 </p>
 <br/>
+
 🌊 Simulation
 
 <p align="left">
@@ -48,6 +49,7 @@ I'm a Mechatronics Engineering student at **MSA University** (Faculty of Enginee
   <img src="https://img.shields.io/badge/CFD-FFB71B?style=for-the-badge&logo=ansys&logoColor=black" />
 </p>
 <br/>
+
 💻 Programming
 
 <p align="left">
@@ -56,6 +58,7 @@ I'm a Mechatronics Engineering student at **MSA University** (Faculty of Enginee
   <img src="https://img.shields.io/badge/Python%20%2F%20AI-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 </p>
 <br/>
+
 🤖 Robotics
 
 <p align="left">
