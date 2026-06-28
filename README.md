@@ -14,7 +14,7 @@
 
 <br/>
 
-# 🚀 About Me
+### 🚀 About Me
 
 I'm a Mechatronics Engineering student at **MSA University** (Faculty of Engineering, Egypt), expected to graduate in 2030. I'm passionate about bridging the gap between high-performance software and complex hardware — building projects in **robotics, embedded systems, IoT, and control systems**, with a strong interest in **automotive and aerospace engineering**.
 
@@ -29,16 +29,16 @@ I'm a Mechatronics Engineering student at **MSA University** (Faculty of Enginee
 
 <br/>
 
-# 🛠️ Skills
+## 🛠️ Skills
 
 <br/>
 
 ### 📐 CAD
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Autodesk%20Inventor-2C2C2C?style=for-the-badge&logo=autodesk&logoColor=white" width="280" height="50" />
+  <img src="https://img.shields.io/badge/Autodesk%20Inventor-2C2C2C?style=for-the-badge&logo=autodesk&logoColor=white" width="240" />
   &nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/SolidWorks-CC2929?style=for-the-badge&logo=dassaultsystemes&logoColor=white" width="220" height="50" />
+  <img src="https://img.shields.io/badge/SolidWorks-CC2929?style=for-the-badge&logo=dassaultsystemes&logoColor=white" width="190" />
 </p>
 
 <br/>
@@ -46,9 +46,9 @@ I'm a Mechatronics Engineering student at **MSA University** (Faculty of Enginee
 ### 🌊 Simulation
 
 <p align="left">
-  <img src="https://img.shields.io/badge/FEA-FFB71B?style=for-the-badge&logo=ansys&logoColor=black" width="140" height="50" />
+  <img src="https://img.shields.io/badge/FEA-FFB71B?style=for-the-badge&logo=ansys&logoColor=black" width="120" />
   &nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/CFD-FFB71B?style=for-the-badge&logo=ansys&logoColor=black" width="140" height="50" />
+  <img src="https://img.shields.io/badge/CFD-FFB71B?style=for-the-badge&logo=ansys&logoColor=black" width="120" />
 </p>
 
 <br/>
@@ -56,9 +56,9 @@ I'm a Mechatronics Engineering student at **MSA University** (Faculty of Enginee
 ### 💻 Programming
 
 <p align="left">
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" width="150" height="50" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" width="130" />
   &nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Python%20%2F%20AI-3776AB?style=for-the-badge&logo=python&logoColor=white" width="230" height="50" />
+  <img src="https://img.shields.io/badge/Python%20%2F%20AI-3776AB?style=for-the-badge&logo=python&logoColor=white" width="200" />
 </p>
 
 <br/>
@@ -66,7 +66,7 @@ I'm a Mechatronics Engineering student at **MSA University** (Faculty of Enginee
 ### 🤖 Robotics
 
 <p align="left">
-  <img src="https://img.shields.io/badge/ROS%202-22314E?style=for-the-badge&logo=ros&logoColor=white" width="170" height="50" />
+  <img src="https://img.shields.io/badge/ROS%202-22314E?style=for-the-badge&logo=ros&logoColor=white" width="145" />
 </p>
 
 <br/>
@@ -79,7 +79,7 @@ I'm a Mechatronics Engineering student at **MSA University** (Faculty of Enginee
 
 <br/>
 
-# 🤖 Featured Projects
+### 🤖 Featured Projects
 
 <br/>
 
