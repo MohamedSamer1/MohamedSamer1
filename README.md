@@ -82,6 +82,7 @@ I'm a Mechatronics Engineering student at **MSA University** (Faculty of Enginee
 
 ---
 
+
 ### 🤖 Bluetooth-Controlled Sumo Robot
 
 Designed and built a Bluetooth-controlled sumo robot powered by an **ESP32** microcontroller. The project combines embedded programming, wireless communication, CAD design, and electronics integration for competitive maneuverability.
