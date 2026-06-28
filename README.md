@@ -80,8 +80,8 @@ I'm a Mechatronics Engineering student at **MSA University** (Faculty of Enginee
 
 <br/>
 
-
 ---
+
 ## 🚀 Engineering Projects
 
 
@@ -118,7 +118,7 @@ Performed a CFD analysis to evaluate the aerodynamic effects of a rear spoiler o
 
 **Technologies**
 
-`ANSYS Fluent` `SpaceClaim` `Autodesk Inventor`
+`ANSYS Fluent` `ANSYS Meshing` `SpaceClaim` `Autodesk Inventor` 
 
 🔗 **Repository:**
 https://github.com/MohamedSamer1
