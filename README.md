@@ -88,7 +88,7 @@ I'm a Mechatronics Engineering student at **MSA University** (Faculty of Enginee
 
 <br/>
 
-### 🤖 Featured Projects
+# 🤖 Featured Projects
 
 <br/>
 
