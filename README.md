@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Mohamed Samer 👋</h1>
-<h3 align="center">Mechatronics Engineering Student | Robotics · Embedded Systems · CAD/CFD</h3>
+<h3 align="center">Mechatronics Engineering Student | Robotics · Automotive · CAD Design · CFD/FEA Simulation</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/mohamed-samer-5246472b7/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
@@ -14,7 +14,7 @@
 
 <br/>
 
-### 🚀 About Me
+# 🚀 About Me
 
 I'm a Mechatronics Engineering student at **MSA University** (Faculty of Engineering, Egypt), expected to graduate in 2030. I'm passionate about bridging the gap between high-performance software and complex hardware — building projects in **robotics, embedded systems, IoT, and control systems**, with a strong interest in **automotive and aerospace engineering**.
 
@@ -29,10 +29,8 @@ I'm a Mechatronics Engineering student at **MSA University** (Faculty of Enginee
 
 <br/>
 
-## 🛠️ Skills
-
+# 🛠️ Skills
 <br/>
-
 ### 📐 CAD
 
 <p align="left">
@@ -91,8 +89,6 @@ I'm a Mechatronics Engineering student at **MSA University** (Faculty of Enginee
 
 <br/>
 
-📌 *Pin these three repos on your profile (see instructions below) so they show up right under this README.*
-
 <br/>
 
 ---
@@ -142,7 +138,7 @@ I'm always open to discussing mechatronics systems, robotics builds, AI integrat
 <br/>
 
 <p align="center">
-  📍 6th of October City, Egypt &nbsp;|&nbsp; 🟢 Available for internships &nbsp;|&nbsp; 🕐 GMT+2
+  📍 Cairo, Egypt &nbsp;|&nbsp; 🟢 Available for internships &nbsp;|&nbsp; 🕐 GMT+2
 </p>
 
 <br/>
