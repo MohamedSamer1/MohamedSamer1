@@ -95,7 +95,7 @@ Designed and built a Bluetooth-controlled sumo robot powered by an **ESP32** mic
 `ESP32` `Arduino IDE` `Autodesk Inventor` `KiCad` `Proteus` `MATLAB/Simulink`
 
 🔗 **Repository:**
-https://github.com/MohamedSamer1
+https://github.com/MohamedSamer1/bluetooth-controlled-sumo-robot
 
 ---
 
