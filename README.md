@@ -45,9 +45,9 @@ I'm a Mechatronics Engineering student at **MSA University** (Faculty of Enginee
 ### 🌊 Simulation
 
 <p align="left">
-  <img src="https://img.shields.io/badge/FEA-FFB71B?style=for-the-badge&logo=ansys&logoColor=black" width="100" />
+  <img src="https://img.shields.io/badge/FEA-FFB71B?style=for-the-badge&logo=ansys&logoColor=black" width="130" />
   &nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/CFD-FFB71B?style=for-the-badge&logo=ansys&logoColor=black" width="100" />
+  <img src="https://img.shields.io/badge/CFD-FFB71B?style=for-the-badge&logo=ansys&logoColor=black" width="130" />
 </p>
 
 <br/>
