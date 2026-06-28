@@ -35,7 +35,7 @@ I'm a Mechatronics Engineering student at **MSA University** (Faculty of Enginee
 ### 📐 CAD
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Autodesk%20Inventor-2C2C2C?style=for-the-badge&logo=autodesk&logoColor=white" width="265" />
+  <img src="https://img.shields.io/badge/Autodesk%20Inventor-2C2C2C?style=for-the-badge&logo=autodesk&logoColor=white" width="260" />
   &nbsp;&nbsp;
   <img src="https://img.shields.io/badge/SolidWorks-CC2929?style=for-the-badge&logo=dassaultsystemes&logoColor=white" width="180" />
 </p>
@@ -57,7 +57,7 @@ I'm a Mechatronics Engineering student at **MSA University** (Faculty of Enginee
 <p align="left">
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" width="180" />
   &nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Python%20%2F%20AI-3776AB?style=for-the-badge&logo=python&logoColor=white" width="180" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" width="180" />
 </p>
 
 <br/>
