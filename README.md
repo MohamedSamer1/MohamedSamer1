@@ -108,7 +108,7 @@ Designed a 4-DOF robotic arm with a servo-driven mechanical gripper for object m
 `Autodesk Inventor` `Arduino IDE` `KiCad`
 
 🔗 **Repository:**
-https://github.com/MohamedSamer1
+https://github.com/MohamedSamer1/4-dof-robotic-arm
 
 ---
 
