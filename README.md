@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Mohamed Samer 👋</h1>
-<h3 align="center">Mechatronics Engineering Student | Robotics · Embedded Systems · CAD/CFD</h3>
+<h3 align="center">Mechatronics Engineering Student | Robotics · Automotive · CAD Design · CFD/FEA Simulation</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/mohamed-samer-5246472b7/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" /></a>
