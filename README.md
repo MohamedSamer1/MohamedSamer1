@@ -78,26 +78,49 @@ I'm a Mechatronics Engineering student at **MSA University** (Faculty of Enginee
   <img src="https://img.shields.io/badge/SolidWorks%20Simulation-CC2929?style=for-the-badge" />
 </p>
 
----
-
-
-<br/>
-
-# 🤖 Featured Projects
-
-<br/>
-
-| Project | Description | Tools |
-|---|---|---|
-| **[Bluetooth-Controlled Sumo Robot](https://github.com/MohamedSamer1)** | ESP32-powered sumo robot with wireless Bluetooth control, custom motor control, and embedded programming for competitive maneuverability. | Arduino IDE, KiCad, Inventor, MATLAB/Simulink, Proteus |
-| **[4-DOF Robotic Arm with Mechanical Gripper](https://github.com/MohamedSamer1)** | 3D-modeled robotic arm with servo-driven gripper for object manipulation — covers kinematics, motion control, and embedded systems integration. | Autodesk Inventor, Arduino IDE, KiCad |
-| **[CFD Analysis: Tesla Model S Spoiler](https://github.com/MohamedSamer1)** | CFD study comparing drag, lift, and downforce on a Tesla Model S with and without a rear spoiler. | Ansys Fluent, Space Claim, Autodesk Inventor |
-
-<br/>
-
-<br/>
+## 🚀 Engineering Projects
 
 ---
+
+### 🤖 Bluetooth-Controlled Sumo Robot
+
+Designed and built a Bluetooth-controlled sumo robot powered by an **ESP32** microcontroller. The project combines embedded programming, wireless communication, CAD design, and electronics integration for competitive maneuverability.
+
+**Technologies**
+
+`ESP32` `Arduino IDE` `Autodesk Inventor` `KiCad` `Proteus` `MATLAB/Simulink`
+
+🔗 **Repository:**
+https://github.com/MohamedSamer1
+
+---
+
+### 🦾 4-DOF Robotic Arm with Mechanical Gripper
+
+Designed a 4-DOF robotic arm with a servo-driven mechanical gripper for object manipulation. The project focuses on mechanical design, embedded control, and the fundamentals of robotic kinematics.
+
+**Technologies**
+
+`Autodesk Inventor` `Arduino IDE` `KiCad`
+
+🔗 **Repository:**
+https://github.com/MohamedSamer1
+
+---
+
+### 🚗 CFD Analysis of a Tesla Model S Rear Spoiler
+
+Performed a CFD analysis to evaluate the aerodynamic effects of a rear spoiler on the Tesla Model S. Compared drag, lift, and downforce characteristics using computational fluid dynamics.
+
+**Technologies**
+
+`ANSYS Fluent` `SpaceClaim` `Autodesk Inventor`
+
+🔗 **Repository:**
+https://github.com/MohamedSamer1
+
+---
+
 
 <br/>
 
