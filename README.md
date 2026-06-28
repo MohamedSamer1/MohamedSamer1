@@ -14,7 +14,7 @@
 
 I'm a Mechatronics Engineering student at **MSA University** (Faculty of Engineering, Egypt), expected to graduate in 2030. I'm passionate about bridging the gap between high-performance software and complex hardware — building projects in **robotics, embedded systems, IoT, and control systems**, with a strong interest in **automotive and aerospace engineering**.
 
-- 🎯 Open to internships in robotics, embedded systems, automotive, aerospace, and software development
+- 🎯 Open to internships in robotics, embedded systems, automotive, aerospace, industrial automation and software development
 - 🔭 Currently building robots, CAD models, and CFD simulations
 - 🌱 Currently learning **ROS 2** and deepening my **SolidWorks** skills
 - 💬 Always happy to talk mechatronics, AI integration, or potential collaborations
