@@ -36,9 +36,9 @@ I'm a Mechatronics Engineering student at **MSA University** (Faculty of Enginee
 #### 📐 CAD
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Autodesk%20Inventor-2C2C2C?style=for-the-badge&logo=autodesk&logoColor=white" width="220" />
+  <img src="https://img.shields.io/badge/Autodesk%20Inventor-2C2C2C?style=for-the-badge&logo=autodesk&logoColor=white" />
   &nbsp;
-  <img src="https://img.shields.io/badge/SolidWorks-CC2929?style=for-the-badge&logo=dassaultsystemes&logoColor=white" width="180" />
+  <img src="https://img.shields.io/badge/SolidWorks-CC2929?style=for-the-badge&logo=dassaultsystemes&logoColor=white" />
 </p>
 
 <br/>
@@ -46,9 +46,9 @@ I'm a Mechatronics Engineering student at **MSA University** (Faculty of Enginee
 #### 🌊 Simulation
 
 <p align="left">
-  <img src="https://img.shields.io/badge/FEA-FFB71B?style=for-the-badge&logo=ansys&logoColor=black" width="120" />
+  <img src="https://img.shields.io/badge/FEA-FFB71B?style=for-the-badge&logo=ansys&logoColor=black" />
   &nbsp;
-  <img src="https://img.shields.io/badge/CFD-FFB71B?style=for-the-badge&logo=ansys&logoColor=black" width="120" />
+  <img src="https://img.shields.io/badge/CFD-FFB71B?style=for-the-badge&logo=ansys&logoColor=black" />
 </p>
 
 <br/>
@@ -56,9 +56,9 @@ I'm a Mechatronics Engineering student at **MSA University** (Faculty of Enginee
 #### 💻 Programming
 
 <p align="left">
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" width="130" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
   &nbsp;
-  <img src="https://img.shields.io/badge/Python%20%2F%20AI-3776AB?style=for-the-badge&logo=python&logoColor=white" width="180" />
+  <img src="https://img.shields.io/badge/Python%20%2F%20AI-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 </p>
 
 <br/>
@@ -66,7 +66,7 @@ I'm a Mechatronics Engineering student at **MSA University** (Faculty of Enginee
 #### 🤖 Robotics
 
 <p align="left">
-  <img src="https://img.shields.io/badge/ROS%202-22314E?style=for-the-badge&logo=ros&logoColor=white" width="150" />
+  <img src="https://img.shields.io/badge/ROS%202-22314E?style=for-the-badge&logo=ros&logoColor=white" />
 </p>
 
 <br/>
