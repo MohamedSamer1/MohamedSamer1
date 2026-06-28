@@ -47,10 +47,10 @@ I'm a Mechatronics Engineering student at **MSA University** (Faculty of Enginee
 ### 🌊 Simulation & Analysis
 
 <p align="left">
-  <img src="https://img.shields.io/badge/ANSYS%20Fluent-FFB71B?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/SolidWorks%20Simulation-CC2929?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/ANSYS%20FWorkbench-FFB71B?style=for-the-badge" />
   <img src="https://img.shields.io/badge/CFD-FFB71B?style=for-the-badge" />
   <img src="https://img.shields.io/badge/FEA-FFB71B?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/SolidWorks%20Simulation-CC2929?style=for-the-badge" />
 </p>
 
 ### 🤖 Robotics & Embedded Systems
