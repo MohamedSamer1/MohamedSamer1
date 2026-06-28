@@ -25,7 +25,6 @@ I'm a Mechatronics Engineering student at **MSA University** (Faculty of Enginee
 
 <br/>
 
-```md
 ---
 
 # 🛠️ Engineering Skills
@@ -99,7 +98,7 @@ I'm a Mechatronics Engineering student at **MSA University** (Faculty of Enginee
 ---
 
 > **Interests:** Robotics • Embedded Systems • CAD Design • Simulation • Automotive Engineering • Aerospace Engineering • AI Integration
-```
+
 
 <br/>
 
