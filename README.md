@@ -25,58 +25,50 @@ I'm a Mechatronics Engineering student at **MSA University** (Faculty of Enginee
 
 <br/>
 
+
 ---
 
 # 🛠️ Engineering Skills
 
+### 💻 Programming
+
+<p align="left">
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+</p>
+
 ### 📐 CAD & Mechanical Design
 
 <p align="left">
-  <img src="https://img.shields.io/badge/SolidWorks-CC2929?style=for-the-badge&logo=dassaultsystemes&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Autodesk%20Inventor-E34F26?style=for-the-badge&logo=autodesk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Technical%20Drawings-4B5563?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Assemblies-4B5563?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Design%20for%20Manufacturing-4B5563?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/SolidWorks-CC2929?style=for-the-badge&logo=dassaultsystemes&logoColor=white" />
+  <img src="https://img.shields.io/badge/Autodesk%20Inventor-E34F26?style=for-the-badge&logo=autodesk&logoColor=white" />
 </p>
-
----
 
 ### 🌊 Simulation & Analysis
 
 <p align="left">
-  <img src="https://img.shields.io/badge/CFD-FFB71B?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/FEA-FFB71B?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/ANSYS%20Fluent-FFB71B?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/SolidWorks%20Simulation-CC2929?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/ANSYS%20Fluent-FFB71B?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/SolidWorks%20Simulation-CC2929?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/CFD-FFB71B?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/FEA-FFB71B?style=for-the-badge" />
 </p>
-
----
 
 ### 🤖 Robotics & Embedded Systems
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
-  <img src="https://img.shields.io/badge/ESP32-333333?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/ROS%202-22314E?style=for-the-badge&logo=ros&logoColor=white"/>
-  <img src="https://img.shields.io/badge/KiCad-314CB0?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Proteus-1C79B3?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Motor%20Control-4B5563?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Sensors-4B5563?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Bluetooth-0082FC?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
+  <img src="https://img.shields.io/badge/ESP32-333333?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/ROS%202-22314E?style=for-the-badge&logo=ros&logoColor=white" />
 </p>
 
----
-
-### 💻 Programming
+### 🧰 Engineering Tools
 
 <p align="left">
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Simulink-FF6600?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Simulink-FF6600?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/KiCad-314CB0?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Proteus-1C79B3?style=for-the-badge" />
 </p>
-
----
 
 ### ⚙️ Development Tools
 
@@ -84,20 +76,14 @@ I'm a Mechatronics Engineering student at **MSA University** (Faculty of Enginee
   <img src="https://skillicons.dev/icons?i=git,github,vscode" />
 </p>
 
----
-
 ### 🌱 Currently Learning
 
 <p align="left">
-  <img src="https://img.shields.io/badge/ROS%202-22314E?style=for-the-badge&logo=ros&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SolidWorks%20Simulation-CC2929?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Computer%20Vision-4B5563?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/AI%20for%20Robotics-4B5563?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/ROS%202-22314E?style=for-the-badge&logo=ros&logoColor=white" />
+  <img src="https://img.shields.io/badge/SolidWorks%20Simulation-CC2929?style=for-the-badge" />
 </p>
 
 ---
-
-> **Interests:** Robotics • Embedded Systems • CAD Design • Simulation • Automotive Engineering • Aerospace Engineering • AI Integration
 
 
 <br/>
