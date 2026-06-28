@@ -14,7 +14,7 @@
 
 <br/>
 
-### 🚀 About Me
+# 🚀 About Me
 
 I'm a Mechatronics Engineering student at **MSA University** (Faculty of Engineering, Egypt), expected to graduate in 2030. I'm passionate about bridging the gap between high-performance software and complex hardware — building projects in **robotics, embedded systems, IoT, and control systems**, with a strong interest in **automotive and aerospace engineering**.
 
@@ -79,7 +79,7 @@ I'm a Mechatronics Engineering student at **MSA University** (Faculty of Enginee
 
 <br/>
 
-### 🤖 Featured Projects
+# 🤖 Featured Projects
 
 <br/>
 
