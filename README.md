@@ -28,45 +28,37 @@ I'm a Mechatronics Engineering student at **MSA University** (Faculty of Enginee
 ---
 
 <br/>
-### 🛠️ Skills
-
+🛠️ Skills
 
 <br/>
-
 📐 CAD
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Autodesk%20Inventor-2C2C2C?style=for-the-badge&logo=autodesk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Autodesk%20Inventor-2C2C2C?style=for-the-badge&logo=autodesk&logoColor=white" width="220" />
   &nbsp;
-  <img src="https://img.shields.io/badge/SolidWorks-CC2929?style=for-the-badge&logo=dassaultsystemes&logoColor=white" />
+  <img src="https://img.shields.io/badge/SolidWorks-CC2929?style=for-the-badge&logo=dassaultsystemes&logoColor=white" width="180" />
 </p>
 <br/>
-
 🌊 Simulation
 
-
 <p align="left">
-  <img src="https://img.shields.io/badge/FEA-FFB71B?style=for-the-badge&logo=ansys&logoColor=black" />
+  <img src="https://img.shields.io/badge/FEA-FFB71B?style=for-the-badge&logo=ansys&logoColor=black" width="120" />
   &nbsp;
-  <img src="https://img.shields.io/badge/CFD-FFB71B?style=for-the-badge&logo=ansys&logoColor=black" />
+  <img src="https://img.shields.io/badge/CFD-FFB71B?style=for-the-badge&logo=ansys&logoColor=black" width="120" />
 </p>
 <br/>
-
 💻 Programming
 
-
 <p align="left">
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" width="130" />
   &nbsp;
-  <img src="https://img.shields.io/badge/Python%20%2F%20AI-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python%20%2F%20AI-3776AB?style=for-the-badge&logo=python&logoColor=white" width="180" />
 </p>
 <br/>
-
 🤖 Robotics
 
-
 <p align="left">
-  <img src="https://img.shields.io/badge/ROS%202-22314E?style=for-the-badge&logo=ros&logoColor=white" />
+  <img src="https://img.shields.io/badge/ROS%202-22314E?style=for-the-badge&logo=ros&logoColor=white" width="150" />
 </p>
 <br/>
 
