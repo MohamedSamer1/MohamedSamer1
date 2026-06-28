@@ -78,9 +78,9 @@ I'm a Mechatronics Engineering student at **MSA University** (Faculty of Enginee
   <img src="https://img.shields.io/badge/SolidWorks%20Simulation-CC2929?style=for-the-badge" />
 </p>
 
-
-## 🚀 Engineering Projects
 ---
+## 🚀 Engineering Projects
+
 
 
 ### 🤖 Bluetooth-Controlled Sumo Robot
