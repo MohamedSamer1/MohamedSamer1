@@ -68,12 +68,7 @@ I'm a Mechatronics Engineering student at **MSA University** (Faculty of Enginee
   <img src="https://img.shields.io/badge/Simulink-FF6600?style=for-the-badge" />
   <img src="https://img.shields.io/badge/KiCad-314CB0?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Proteus-1C79B3?style=for-the-badge" />
-</p>
-
-### ⚙️ Development Tools
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+  <img src="https://img.shields.io/badge/ANSYS-FFB71B?style=for-the-badge" />
 </p>
 
 ### 🌱 Currently Learning
