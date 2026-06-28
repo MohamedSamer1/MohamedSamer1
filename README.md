@@ -45,8 +45,6 @@ I'm a Mechatronics Engineering student at **MSA University** (Faculty of Enginee
 | **[4-DOF Robotic Arm with Mechanical Gripper](https://github.com/MohamedSamer1)** | 3D-modeled robotic arm with servo-driven gripper for object manipulation — covers kinematics, motion control, and embedded systems integration. | Autodesk Inventor, Arduino IDE, KiCad |
 | **[CFD Analysis: Tesla Model S Spoiler](https://github.com/MohamedSamer1)** | CFD study comparing drag, lift, and downforce on a Tesla Model S with and without a rear spoiler. | Ansys Fluent, Space Claim, Autodesk Inventor |
 
-📌 *Pin these three repos on your profile (see instructions below) so they show up right under this README.*
-
 ---
 
 ### 📫 Connect with me
