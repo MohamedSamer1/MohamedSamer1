@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Mohamed Samer 👋</h1>
-<h3 align="center">Mechatronics Engineering Student | Robotics · Automotive · CAD Design · CFD/FEA Simulation</h3>
+<h3 align="center">Mechatronics Engineering Student | Robotics · Embedded Systems · CAD/CFD</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/mohamed-samer-5246472b7/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
@@ -18,7 +18,7 @@
 
 I'm a Mechatronics Engineering student at **MSA University** (Faculty of Engineering, Egypt), expected to graduate in 2030. I'm passionate about bridging the gap between high-performance software and complex hardware — building projects in **robotics, embedded systems, IoT, and control systems**, with a strong interest in **automotive and aerospace engineering**.
 
-- 🎯 Open to internships in robotics, embedded systems, automotive, aerospace, and industrial automation
+- 🎯 Open to internships in robotics, embedded systems, automotive, aerospace, and software development
 - 🔭 Currently building robots, CAD models, and CFD simulations
 - 🌱 Currently learning **ROS 2** and deepening my **SolidWorks** skills
 - 💬 Always happy to talk mechatronics, AI integration, or potential collaborations
@@ -28,43 +28,50 @@ I'm a Mechatronics Engineering student at **MSA University** (Faculty of Enginee
 ---
 
 <br/>
-🛠️ Skills
+
+### 🛠️ Skills
 
 <br/>
-📐 CAD
+
+#### 📐 CAD
 
 <p align="left">
   <img src="https://img.shields.io/badge/Autodesk%20Inventor-2C2C2C?style=for-the-badge&logo=autodesk&logoColor=white" width="220" />
   &nbsp;
   <img src="https://img.shields.io/badge/SolidWorks-CC2929?style=for-the-badge&logo=dassaultsystemes&logoColor=white" width="180" />
 </p>
+
 <br/>
-🌊 Simulation
+
+#### 🌊 Simulation
 
 <p align="left">
   <img src="https://img.shields.io/badge/FEA-FFB71B?style=for-the-badge&logo=ansys&logoColor=black" width="120" />
   &nbsp;
   <img src="https://img.shields.io/badge/CFD-FFB71B?style=for-the-badge&logo=ansys&logoColor=black" width="120" />
 </p>
+
 <br/>
-💻 Programming
+
+#### 💻 Programming
 
 <p align="left">
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" width="130" />
   &nbsp;
   <img src="https://img.shields.io/badge/Python%20%2F%20AI-3776AB?style=for-the-badge&logo=python&logoColor=white" width="180" />
 </p>
+
 <br/>
-🤖 Robotics
+
+#### 🤖 Robotics
 
 <p align="left">
   <img src="https://img.shields.io/badge/ROS%202-22314E?style=for-the-badge&logo=ros&logoColor=white" width="150" />
 </p>
+
 <br/>
 
-🌱 Currently leveling up: SolidWorks Simulation, ROS 2 for autonomous robotics, and applying Python/ML to engineering workflows.
-
-
+> 🌱 **Currently leveling up:** SolidWorks Simulation, ROS 2 for autonomous robotics, and applying Python/ML to engineering workflows.
 
 <br/>
 
@@ -84,6 +91,7 @@ I'm a Mechatronics Engineering student at **MSA University** (Faculty of Enginee
 
 <br/>
 
+📌 *Pin these three repos on your profile (see instructions below) so they show up right under this README.*
 
 <br/>
 
@@ -134,7 +142,7 @@ I'm always open to discussing mechatronics systems, robotics builds, AI integrat
 <br/>
 
 <p align="center">
-  📍 Cairo, Egypt &nbsp;|&nbsp; 🟢 Available for internships &nbsp;|&nbsp; 🕐 GMT+2
+  📍 6th of October City, Egypt &nbsp;|&nbsp; 🟢 Available for internships &nbsp;|&nbsp; 🕐 GMT+2
 </p>
 
 <br/>
