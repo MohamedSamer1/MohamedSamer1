@@ -75,18 +75,11 @@ My goal is to contribute to the aerospace industry by designing and analyzing hi
 
 ---
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME\&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME\&layout=compact)
-
----
 
 ## 📫 Connect with Me
 
-* GitHub: https://github.com/YOUR_USERNAME
-* LinkedIn: https://linkedin.com/in/YOUR_LINKEDIN
+* GitHub: https://github.com/MohamedSamer1
+* LinkedIn: https://www.linkedin.com/in/mohamed-samer-5246472b7/
 
 ---
 
