@@ -28,75 +28,43 @@ I'm a Mechatronics Engineering student at **MSA University** (Faculty of Enginee
 ---
 
 <br/>
-
-### 🛠️ Skills
-
-<br/>
-
-<table>
-<tr>
-<td valign="top" width="50%">
-
-**📐 CAD**
+🛠️ Skills
 
 <br/>
+📐 CAD
 
-<img src="https://img.shields.io/badge/Autodesk%20Inventor-2C2C2C?style=for-the-badge&logo=autodesk&logoColor=white" /> &nbsp;`●●●` Advanced
+<p align="left">
+  <img src="https://img.shields.io/badge/Autodesk%20Inventor-2C2C2C?style=for-the-badge&logo=autodesk&logoColor=white" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/SolidWorks-CC2929?style=for-the-badge&logo=dassaultsystemes&logoColor=white" />
+</p>
+<br/>
+🌊 Simulation
 
-<br/><br/>
+<p align="left">
+  <img src="https://img.shields.io/badge/FEA-FFB71B?style=for-the-badge&logo=ansys&logoColor=black" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/CFD-FFB71B?style=for-the-badge&logo=ansys&logoColor=black" />
+</p>
+<br/>
+💻 Programming
 
-<img src="https://img.shields.io/badge/SolidWorks-CC2929?style=for-the-badge&logo=dassaultsystemes&logoColor=white" /> &nbsp;`●○○` Beginner
+<p align="left">
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Python%20%2F%20AI-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+</p>
+<br/>
+🤖 Robotics
 
-</td>
-<td valign="top" width="50%">
-
-**🌊 Simulation**
-
+<p align="left">
+  <img src="https://img.shields.io/badge/ROS%202-22314E?style=for-the-badge&logo=ros&logoColor=white" />
+</p>
 <br/>
 
-<img src="https://img.shields.io/badge/FEA%20(Ansys)-FFB71B?style=for-the-badge&logo=ansys&logoColor=black" /> &nbsp;`●●●` Advanced
+🌱 Currently leveling up: SolidWorks Simulation, ROS 2 for autonomous robotics, and applying Python/ML to engineering workflows.
 
-<br/><br/>
 
-<img src="https://img.shields.io/badge/CFD%20(Ansys)-FFB71B?style=for-the-badge&logo=ansys&logoColor=black" /> &nbsp;`●●●` Advanced
-
-</td>
-</tr>
-<tr>
-<td valign="top" width="50%">
-
-<br/>
-
-**💻 Programming**
-
-<br/>
-
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" /> &nbsp;`●●●` Advanced
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/Python%20%2F%20AI%20Integration-3776AB?style=for-the-badge&logo=python&logoColor=white" /> &nbsp;`●●○` Intermediate
-
-</td>
-<td valign="top" width="50%">
-
-<br/>
-
-**🤖 Robotics**
-
-<br/>
-
-<img src="https://img.shields.io/badge/ROS%202-22314E?style=for-the-badge&logo=ros&logoColor=white" /> &nbsp;`●○○` Beginner
-
-<br/><br/>
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-> 🌱 **Currently leveling up:** SolidWorks Simulation, ROS 2 for autonomous robotics, and applying Python/ML to engineering workflows.
 
 <br/>
 
