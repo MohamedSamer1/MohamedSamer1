@@ -5,7 +5,7 @@
   <a href="https://www.linkedin.com/in/mohamed-samer-5246472b7/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:mohamedsamersayed@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <!-- Replace with your real portfolio URL -->
-  <a href="https://your-portfolio-url.com"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="https://mohamed-samer.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 </p>
 
 <br/>
@@ -163,7 +163,7 @@ I'm always open to discussing mechatronics systems, robotics builds, AI integrat
 <br/>
 
 <p align="center">
-  <a href="https://your-portfolio-url.com">
+  <a href="https://mohamed-samer.vercel.app/">
     <img src="https://img.shields.io/badge/🌐_View_My_Full_Portfolio-000000?style=for-the-badge" />
   </a>
 </p>
